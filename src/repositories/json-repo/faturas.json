@@ -1,0 +1,22 @@
+[
+  {
+    "idFatura": "0896780c-f515-46b0-97e7-8486aaa23d81",
+    "cnpjCpf": "123.456.789-00",
+    "nome": "Pedro",
+    "data": "05/10/2001",
+    "valorBaseICMS": 0,
+    "valorICMS": 0,
+    "valorFrete": 0,
+    "valorIPI": 0,
+    "valorDesconto": 0,
+    "valorTotalDaNota": 0,
+    "cancelada": false,
+    "produtos": [
+      {
+        "idProdutoFatura": "1",
+        "valorDesconto": 0,
+        "quantidade": 3
+      }
+    ]
+  }
+]

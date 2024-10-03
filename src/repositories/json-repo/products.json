@@ -1,0 +1,167 @@
+[
+  {
+    "ID": "1",
+    "Descricao": "Produto A",
+    "Estoque": 100,
+    "BaseICMS": 500.00,
+    "AliquotaICMS": 18.0,
+    "AliquotaIPI": 10.0,
+    "ValorCompra": 450.00,
+    "ValorVenda": 550.00,
+    "PorcentagemMaximaDesconto": 5.0
+  },
+  {
+    "ID": "2",
+    "Descricao": "Produto B",
+    "Estoque": 50,
+    "BaseICMS": 300.00,
+    "AliquotaICMS": 12.0,
+    "AliquotaIPI": 5.0,
+    "ValorCompra": 250.00,
+    "ValorVenda": 350.00,
+    "PorcentagemMaximaDesconto": 7.0
+  },
+  {
+    "ID": "3",
+    "Descricao": "Produto C",
+    "Estoque": 200,
+    "BaseICMS": 800.00,
+    "AliquotaICMS": 15.0,
+    "AliquotaIPI": 8.0,
+    "ValorCompra": 750.00,
+    "ValorVenda": 900.00,
+    "PorcentagemMaximaDesconto": 10.0
+  },
+  {
+    "ID": "4",
+    "Descricao": "Produto D",
+    "Estoque": 150,
+    "BaseICMS": 400.00,
+    "AliquotaICMS": 18.0,
+    "AliquotaIPI": 6.0,
+    "ValorCompra": 350.00,
+    "ValorVenda": 500.00,
+    "PorcentagemMaximaDesconto": 6.0
+  },
+  {
+    "ID": "5",
+    "Descricao": "Produto E",
+    "Estoque": 80,
+    "BaseICMS": 600.00,
+    "AliquotaICMS": 16.0,
+    "AliquotaIPI": 7.0,
+    "ValorCompra": 520.00,
+    "ValorVenda": 650.00,
+    "PorcentagemMaximaDesconto": 8.0
+  },
+  {
+    "ID": "6",
+    "Descricao": "Produto F",
+    "Estoque": 120,
+    "BaseICMS": 450.00,
+    "AliquotaICMS": 14.0,
+    "AliquotaIPI": 9.0,
+    "ValorCompra": 400.00,
+    "ValorVenda": 520.00,
+    "PorcentagemMaximaDesconto": 5.5
+  },
+  {
+    "ID": "7",
+    "Descricao": "Produto G",
+    "Estoque": 90,
+    "BaseICMS": 350.00,
+    "AliquotaICMS": 18.0,
+    "AliquotaIPI": 12.0,
+    "ValorCompra": 300.00,
+    "ValorVenda": 450.00,
+    "PorcentagemMaximaDesconto": 6.0
+  },
+  {
+    "ID": "8",
+    "Descricao": "Produto H",
+    "Estoque": 60,
+    "BaseICMS": 700.00,
+    "AliquotaICMS": 20.0,
+    "AliquotaIPI": 11.0,
+    "ValorCompra": 650.00,
+    "ValorVenda": 800.00,
+    "PorcentagemMaximaDesconto": 9.0
+  },
+  {
+    "ID": "9",
+    "Descricao": "Produto I",
+    "Estoque": 130,
+    "BaseICMS": 550.00,
+    "AliquotaICMS": 17.0,
+    "AliquotaIPI": 8.0,
+    "ValorCompra": 500.00,
+    "ValorVenda": 620.00,
+    "PorcentagemMaximaDesconto": 7.5
+  },
+  {
+    "ID": "10",
+    "Descricao": "Produto J",
+    "Estoque": 200,
+    "BaseICMS": 600.00,
+    "AliquotaICMS": 16.0,
+    "AliquotaIPI": 9.0,
+    "ValorCompra": 550.00,
+    "ValorVenda": 700.00,
+    "PorcentagemMaximaDesconto": 8.0
+  },
+  {
+    "ID": "11",
+    "Descricao": "Produto K",
+    "Estoque": 85,
+    "BaseICMS": 380.00,
+    "AliquotaICMS": 13.0,
+    "AliquotaIPI": 10.0,
+    "ValorCompra": 320.00,
+    "ValorVenda": 470.00,
+    "PorcentagemMaximaDesconto": 6.5
+  },
+  {
+    "ID": "12",
+    "Descricao": "Produto L",
+    "Estoque": 110,
+    "BaseICMS": 480.00,
+    "AliquotaICMS": 19.0,
+    "AliquotaIPI": 7.0,
+    "ValorCompra": 430.00,
+    "ValorVenda": 550.00,
+    "PorcentagemMaximaDesconto": 7.0
+  },
+  {
+    "ID": "13",
+    "Descricao": "Produto M",
+    "Estoque": 140,
+    "BaseICMS": 750.00,
+    "AliquotaICMS": 15.0,
+    "AliquotaIPI": 6.0,
+    "ValorCompra": 700.00,
+    "ValorVenda": 850.00,
+    "PorcentagemMaximaDesconto": 9.5
+  },
+  {
+    "ID": "14",
+    "Descricao": "Produto N",
+    "Estoque": 70,
+    "BaseICMS": 500.00,
+    "AliquotaICMS": 18.0,
+    "AliquotaIPI": 5.0,
+    "ValorCompra": 450.00,
+    "ValorVenda": 600.00,
+    "PorcentagemMaximaDesconto": 6.0
+  },
+  {
+    "ID": "15",
+    "Descricao": "Produto O",
+    "Estoque": 100,
+    "BaseICMS": 650.00,
+    "AliquotaICMS": 17.0,
+    "AliquotaIPI": 9.0,
+    "ValorCompra": 600.00,
+    "ValorVenda": 750.00,
+    "PorcentagemMaximaDesconto": 8.5
+  }
+]
